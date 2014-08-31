@@ -1,5 +1,5 @@
 AntigoME is a simple text based game inspired by Anne Carson's book AntigoNick.
-It is written in python (version 2) and uses (requires) Panda3D.
+It is written in python (version 2) and uses (requires) Panda3D. GPLv3
 
 I wrote this as an alternative to writing an essay for my World Lit class in fall 2013. Awesome professors accept videogames for homework!
 I have no intention of doing any more work on this, but am open to contributions.
